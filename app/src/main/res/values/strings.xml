@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Exercise Menu 18A</string>
+    <string name="lblapp">LOGIN USER</string>
+    <string name="usnm">Username</string>
+    <string name="pw">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hnusnm">Masukan Username</string>
+    <string name="hnpw">Masukan Password</string>
+    <string name="htg">Hitung Bangun Datar</string>
+    <string name="prsg">Persegi</string>
+    <string name="prsgpjg">Persegi Panjang</string>
+    <string name="lkrn">Lingkaran</string>
+    <string name="sgtg">Segitiga</string>
+    <string name="trpsm">Trapesium</string>
+</resources>
